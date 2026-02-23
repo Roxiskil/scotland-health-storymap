@@ -5,7 +5,7 @@
 Census 2022 counts of self-reported health and related conditions by local authority.
 
 ## Live StoryMap
- **ArcGIS StoryMap:** (https://arcg.is/8X1Kf)
+[ArcGIS StoryMap](https://arcg.is/8X1Kf)
 
 ## Preview
 ### StoryMap cover
